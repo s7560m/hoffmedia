@@ -1,6 +1,6 @@
 # hoffmedia
 
-> A Vue.js project
+> A Vue.js social media project with vuex and feathers
 
 ## Build Setup
 
